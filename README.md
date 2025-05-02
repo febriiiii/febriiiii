@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **febriiiii/febriiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### Arsitek Perangkat Lunak Berpengalaman dan Pengembang Fullstack dengan lebih dari 5 tahun pengalaman dalam menghadirkan solusi kelas enterprise di berbagai industri. Terampil dalam metodologi Agile, arsitektur sistem, dan pengembangan perangkat lunak modern. Berkomitmen pada kualitas melalui kepatuhan standar ISO 9001, dan terus berkembang sesuai dengan Industri 4.0 — memanfaatkan teknologi canggih seperti IoT, AI, dan otomatisasi pintar. Terbuka untuk kolaborasi internasional dan lingkungan yang digerakkan oleh inovasi.
