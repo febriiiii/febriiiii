@@ -1,5 +1,22 @@
-<h1 align="center">Hi 👋, I'm Febri Risnandi</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+![Header](github-header-image.png)
+
+#### Arsitek Perangkat Lunak Berpengalaman dan Pengembang Fullstack dengan lebih dari 5 tahun pengalaman dalam menghadirkan solusi kelas enterprise di berbagai industri. Terampil dalam metodologi Agile, arsitektur sistem, dan pengembangan perangkat lunak modern. Berkomitmen pada kualitas melalui kepatuhan standar ISO 9001, dan terus berkembang sesuai dengan Industri 4.0 — memanfaatkan teknologi canggih seperti IoT, AI, dan otomatisasi pintar. Terbuka untuk kolaborasi internasional dan lingkungan yang digerakkan oleh inovasi.
+
+
+#### Project (PT Graha Kreasi Solusindo)
+###### Vesinter (ERP Manufacturing)
+###### Moneychange (Money POS)
+###### Sisbilling (Billing)
+
+#### Project (PT Insoft Asia Teknologi)
+###### JWD POS (POS Join Wintech Digital)
+
+#### Frelance
+###### Fehiris (Aplikasi ERP - seperti odoo)
+###### Travel Ende administrator (Website Pengelolaan Wisata - seperti traveloka)
+###### BlazorReportServer (Report server generator)
+###### buana-nongsa-maritime-profile (company profile PT Nongsa Jaya Buana)
+###### ASPXsheet (Mikroservice Sheet Generator)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=febriiiii&label=Profile%20views&color=0e75b6&style=flat" alt="febriiiii" /> </p>
 
@@ -30,22 +47,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=febriiiii&" alt="febriiiii" /></p>
 
 
-![Header](github-header-image.png)
 
-#### Arsitek Perangkat Lunak Berpengalaman dan Pengembang Fullstack dengan lebih dari 5 tahun pengalaman dalam menghadirkan solusi kelas enterprise di berbagai industri. Terampil dalam metodologi Agile, arsitektur sistem, dan pengembangan perangkat lunak modern. Berkomitmen pada kualitas melalui kepatuhan standar ISO 9001, dan terus berkembang sesuai dengan Industri 4.0 — memanfaatkan teknologi canggih seperti IoT, AI, dan otomatisasi pintar. Terbuka untuk kolaborasi internasional dan lingkungan yang digerakkan oleh inovasi.
-
-#### Project (PT Graha Kreasi Solusindo)
-###### Vesinter (ERP Manufacturing)
-###### Moneychange (Money POS)
-###### Sisbilling (Billing)
-
-#### Project (PT Insoft Asia Teknologi)
-###### JWD POS (POS Join Wintech Digital)
-
-#### Frelance
-###### Fehiris (Aplikasi ERP - seperti odoo)
-###### Travel Ende administrator (Website Pengelolaan Wisata - seperti traveloka)
-###### BlazorReportServer (Report server generator)
-###### buana-nongsa-maritime-profile (company profile PT Nongsa Jaya Buana)
-###### ASPXsheet (Mikroservice Sheet Generator)
 
