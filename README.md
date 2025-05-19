@@ -92,7 +92,7 @@ Arsitek Perangkat Lunak dan Pengembang Fullstack berpengalaman lebih dari 5 tahu
   </tr>
   <tr>
     <td>Vesinter (ERP Manufacturing)</td>
-    <td>Blazor Server, DevExpress, Oracle, Azure App Service</td>
+    <td>Vue.js, DevExpress, SqL Server, Laravel (API)</td>
     <td>ERP manufaktur: BOM, proyek, alokasi sumber daya</td>
   </tr>
   <tr>
@@ -148,7 +148,7 @@ Arsitek Perangkat Lunak dan Pengembang Fullstack berpengalaman lebih dari 5 tahu
   </tr>
   <tr>
     <td>BlazorReportServer</td>
-    <td>Blazor Server, SQL Lite</td>
+    <td>Blazor Server, SQL Lite, Oracle, Azure App Service</td>
     <td>Generator laporan template dinamis</td>
   </tr>
   <tr>
