@@ -1,4 +1,4 @@
-# 👨‍💻 Febri Irawan — Software Architect & Fullstack Developer
+# 👨‍💻 Febri Risnandi — Software Architect & Fullstack Developer
 
 ![Header](github-header-image.png)
 
@@ -8,9 +8,9 @@
 
 ## 🧠 Tentang Saya
 
-Arsitek Perangkat Lunak dan Fullstack Developer dengan pengalaman lebih dari <b>5 tahun</b> di pengembangan sistem enterprise lintas sektor seperti keuangan, manufaktur, logistik, dan kesehatan. Terbiasa membangun arsitektur <b>Monolitik</b> dan <b>Mikroservis</b> yang skalabel, menerapkan integrasi seperti <b>Webhook</b>, <b>SignalR</b>, dan <b>Kafka</b> untuk kebutuhan real-time dan stream processing.
+Arsitek Perangkat Lunak dan Pengembang Fullstack berpengalaman lebih dari 5 tahun dalam menghadirkan solusi enterprise lintas industri. Terampil dalam metodologi Agile, arsitektur sistem, dan pengembangan perangkat lunak modern. Memiliki komitmen kuat terhadap kualitas (ISO 9001) dan kesiapan menghadapi Industri 4.0 melalui teknologi seperti IoT, AI, dan otomatisasi cerdas.
 
-Berpengalaman menggunakan stack modern seperti .NET, Laravel, React, Blazor, serta deployment ke IIS, VPS Ubuntu (AWS), dan Azure App Service.
+Menguasai stack modern seperti .NET, Laravel, React, Vue, dan Blazor, serta berpengalaman dalam deployment ke IIS, VPS (Ubuntu), dan Azure App Service.
 
 ---
 
@@ -18,19 +18,44 @@ Berpengalaman menggunakan stack modern seperti .NET, Laravel, React, Blazor, ser
 
 <table>
   <tr>
-    <th>Backend</th>
-    <th>Frontend</th>
-    <th>Realtime & Integrasi</th>
-    <th>Tools & Infrastruktur</th>
+    <th>Kategori</th>
+    <th>Teknologi</th>
   </tr>
   <tr>
+    <td><strong>Backend</strong></td>
     <td>.NET Core, Laravel, VB.NET</td>
-    <td>React.js, Blazor, DevExpress</td>
-    <td>Webhook, SignalR, WebSocket, Midtrans, Kafka (Confluent)</td>
-    <td>SQL Server, Oracle, SQLite, PostgreSQL, IIS, Ubuntu VPS, AWS EC2, Azure App Service</td>
   </tr>
   <tr>
-    <td colspan="4">Testing: xUnit, FakeItEasy • Mapping: Leaflet.js • Arsitektur: Monolit & Mikroservis</td>
+    <td><strong>Frontend</strong></td>
+    <td>React.js, Vue.js, Blazor</td>
+  </tr>
+  <tr>
+    <td><strong>Library</strong></td>
+    <td>DevExpress</td>
+  </tr>
+  <tr>
+    <td><strong>Realtime & Integrasi</strong></td>
+    <td>Webhook, SignalR, WebSocket, Kafka (Confluent)</td>
+  </tr>
+  <tr>
+    <td><strong>Third Party</strong></td>
+    <td>Midtrans, Leaflet</td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & Infrastruktur</strong></td>
+    <td>IIS, Ubuntu VPS, Azure App Service, AWS EC2</td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>SQL Server, Oracle, SQLite, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><strong>Testing</strong></td>
+    <td>xUnit, FakeItEasy</td>
+  </tr>
+  <tr>
+    <td><strong>Arsitektur</strong></td>
+    <td>Monolitik, Microservices</td>
   </tr>
 </table>
 
