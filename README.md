@@ -23,7 +23,7 @@ Menguasai stack modern seperti .NET, Laravel, React, Vue, dan Blazor, serta berp
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td>.NET Core > V8 & Framework V4, ASP.NET MVC, Blazor Server, Laravel, CodeIgniter, NET MAUI</td>
+    <td>.NET Core > V8 & Framework V4, ASP.NET MVC, Blazor Server, Laravel, CodeIgniter, NET MAUI, Fluter, VB6, VB.NET</td>
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
@@ -72,6 +72,26 @@ Menguasai stack modern seperti .NET, Laravel, React, Vue, dan Blazor, serta berp
 
 <table>
   <tr><th>Nama</th><th>Teknologi</th><th>Deskripsi</th></tr>
+  <tr>
+    <td>SisBank</td>
+    <td>VB6, SQL Server</td>
+    <td>Core Banking System</td>
+  </tr>
+  <tr>
+    <td>SisGadai</td>
+    <td>VB6, SQL Server</td>
+    <td>Aplikasi Pegadaian Swasta</td>
+  </tr>
+  <tr>
+    <td>SisGadai Mobile</td>
+    <td>.Net MAUI, .Net Core Api (Swager), SQL Server</td>
+    <td>Monitoring dan Aproval Jarak Jauh</td>
+  </tr>
+  <tr>
+    <td>SisMobile</td>
+    <td>fluter, .Net Core Api (Swager), SQL Server</td>
+    <td>Monitoring dan Aproval Jarak Jauh</td>
+  </tr>
   <tr>
     <td>Vesinter (ERP Manufacturing)</td>
     <td>Blazor Server, DevExpress, Oracle, Azure App Service</td>
