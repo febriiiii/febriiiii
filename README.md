@@ -55,7 +55,7 @@ Menguasai stack modern seperti .NET, Laravel, React, Vue, dan Blazor, serta berp
   </tr>
   <tr>
     <td><strong>Version Control</strong></td>
-    <td>Git, GitHub, Bitbucket, GitLab</td>
+    <td>Git, GitHub, GitLab, Git Action & CI/CD</td>
   </tr>
   <tr>
     <td><strong>Architecture</strong></td>
