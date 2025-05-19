@@ -23,41 +23,46 @@ Menguasai stack modern seperti .NET, Laravel, React, Vue, dan Blazor, serta berp
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td>.NET Core, Laravel, VB.NET</td>
+    <td>.NET Core > V8 & Framework V4, ASP.NET MVC, Blazor Server, Laravel, CodeIgniter, NET MAUI</td>
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
-    <td>React.js, Vue.js, Blazor</td>
+    <td>React.js, Vue.js, Blazor WASM, jQuery, Bootstrap, Tailwind CSS</td>
   </tr>
   <tr>
-    <td><strong>Library</strong></td>
-    <td>DevExpress</td>
+    <td><strong>Library & UI Framework</strong></td>
+    <td>DevExpress, Chart.js, Leaflet.js, ShadCN/UI</td>
   </tr>
   <tr>
     <td><strong>Realtime & Integrasi</strong></td>
-    <td>Webhook, SignalR, WebSocket, Kafka (Confluent)</td>
+    <td>SignalR, WebSocket, Webhook, Kafka (Confluent)</td>
   </tr>
   <tr>
-    <td><strong>Third Party</strong></td>
-    <td>Midtrans, Leaflet</td>
+    <td><strong>Third Party API</strong></td>
+    <td>Midtrans, Google Maps API, WhatsApp api, Telegram Bot</td>
   </tr>
   <tr>
-    <td><strong>DevOps & Infrastruktur</strong></td>
-    <td>IIS, Ubuntu VPS, Azure App Service, AWS EC2</td>
+    <td><strong>DevOps & Deployment</strong></td>
+    <td>IIS, Ubuntu VPS, Azure App Service, AWS EC2, cPanel, GitHub Actions</td>
   </tr>
   <tr>
     <td><strong>Database</strong></td>
-    <td>SQL Server, Oracle, SQLite, PostgreSQL</td>
+    <td>SQL Server, Oracle, PostgreSQL, SQLite, MySQL</td>
   </tr>
   <tr>
     <td><strong>Testing</strong></td>
-    <td>xUnit, FakeItEasy</td>
+    <td>xUnit, FakeItEasy, Postman, Swagger</td>
   </tr>
   <tr>
-    <td><strong>Arsitektur</strong></td>
-    <td>Monolitik, Microservices</td>
+    <td><strong>Version Control</strong></td>
+    <td>Git, GitHub, Bitbucket, GitLab</td>
+  </tr>
+  <tr>
+    <td><strong>Architecture</strong></td>
+    <td>Monolitik, Microservices, REST API, Clean Architecture, MVC, MVVM</td>
   </tr>
 </table>
+
 
 ---
 
@@ -92,12 +97,12 @@ Menguasai stack modern seperti .NET, Laravel, React, Vue, dan Blazor, serta berp
   <tr><th>Nama</th><th>Teknologi</th><th>Deskripsi</th></tr>
   <tr>
     <td>JWD POS</td>
-    <td>Laravel, DevExpress, Webhook</td>
+    <td>ASP.NET, Laravel, DevExpress, Webhook</td>
     <td>POS retail multi-outlet dan dashboard</td>
   </tr>
   <tr>
     <td>JWD Trading</td>
-    <td>VB.NET, SQL Server</td>
+    <td>ASP.NET, Laravel, DevExpress, MySQL</td>
     <td>Distribusi & penjualan supplier</td>
   </tr>
 </table>
@@ -115,17 +120,17 @@ Menguasai stack modern seperti .NET, Laravel, React, Vue, dan Blazor, serta berp
   </tr>
   <tr>
     <td>Travel Ende Admin</td>
-    <td>Laravel, Leaflet, Midtrans, Webhook</td>
+    <td>Laravel, Leaflet, Midtrans, Webhook, MySQL</td>
     <td>Admin web destinasi wisata lokal</td>
   </tr>
   <tr>
     <td>Darent Delivery Admin</td>
-    <td>Laravel, Leaflet, WebSocket, Webhook</td>
+    <td>Laravel, Leaflet, WebSocket, Webhook, MySQL</td>
     <td>Admin sistem logistik & kurir</td>
   </tr>
   <tr>
     <td>BlazorReportServer</td>
-    <td>Blazor Server</td>
+    <td>Blazor Server, SQL Lite</td>
     <td>Generator laporan template dinamis</td>
   </tr>
   <tr>
@@ -135,7 +140,7 @@ Menguasai stack modern seperti .NET, Laravel, React, Vue, dan Blazor, serta berp
   </tr>
   <tr>
     <td>Buana Nongsa Maritime</td>
-    <td>Laravel</td>
+    <td>React.js</td>
     <td>Company profile PT Nongsa Jaya Buana</td>
   </tr>
 </table>
