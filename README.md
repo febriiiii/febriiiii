@@ -21,7 +21,6 @@
 ###### ASPXsheet (Mikroservice Sheet Generator)
 
 <br><br><hr><br>
-- 🔭 I’m currently working on <b>Sun Life Financial Indonesia<b>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=febriiiii&show_icons=true&locale=en" alt="febriiiii" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=febriiiii&" alt="febriiiii" /></p>
 
