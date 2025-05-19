@@ -115,8 +115,8 @@ Menguasai stack modern seperti .NET, Laravel, React, Vue, dan Blazor, serta berp
   <tr><th>Nama</th><th>Teknologi</th><th>Deskripsi</th></tr>
   <tr>
     <td>Fehiris ERP</td>
-    <td>Laravel, SQL Server</td>
-    <td>ERP modular (Odoo-like)</td>
+    <td>Blazor Server, Microsoft Arsitektur</td>
+    <td>Perancang ERP modular (Odoo-like)</td>
   </tr>
   <tr>
     <td>Travel Ende Admin</td>
