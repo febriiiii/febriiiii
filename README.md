@@ -10,8 +10,6 @@
 
 Arsitek Perangkat Lunak dan Pengembang Fullstack berpengalaman lebih dari 5 tahun dalam menghadirkan solusi enterprise lintas industri. Terampil dalam metodologi Agile, arsitektur sistem, dan pengembangan perangkat lunak modern. Memiliki komitmen kuat terhadap kualitas (ISO 9001) dan kesiapan menghadapi Industri 4.0 melalui teknologi seperti IoT, AI, dan otomatisasi cerdas.
 
-Menguasai stack modern seperti .NET, Laravel, React, Vue, dan Blazor, serta berpengalaman dalam deployment ke IIS, VPS (Ubuntu), dan Azure App Service.
-
 ---
 
 ## 🛠️ Tech Stack
