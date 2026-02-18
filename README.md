@@ -10,16 +10,23 @@
 
 Software Architect and Fullstack Developer with over 5 years of experience in delivering enterprise-grade solutions across various industries. Proficient in Agile methodologies, system architecture, and modern software development. Deeply committed to quality standards (ISO 9001) and Industry 4.0 readiness through expertise in IoT, AI, and intelligent automation.
 
-####🎓 EDUCATION
-Institut Teknologi Batam
-Bachelor’s Degree in Management Information Systems | GPA: 3.27 / 4.00
-2019 – 2024
+#### 🎓 EDUCATION
+<ul>
+  <li>
+    <strong>Institut Teknologi Batam</strong><br>
+    Bachelor’s Degree in Management Information Systems | GPA: 3.27 / 4.00<br>
+    2019 – 2024
+  </li>
+</ul>
 
-####📬 Contact
-📧 Email: pointad21@gmail.com
-📱 WhatsApp: +62 812 7565 0284
-🔗 GitHub: https://github.com/febriiiii
-🔗 LinkedIn: https://www.linkedin.com/in/febri-risnandi-b6baa41a0
+#### 📬 Contact
+<ul>
+  <li>📧 Email: <a href="mailto:pointad21@gmail.com">pointad21@gmail.com</a></li>
+  <li>📱 WhatsApp: <a href="https://wa.me">https://wa.me</a></li>
+  <li>🔗 GitHub: <a href="https://github.com/febriiiii">https://github.com/febriiiii</a></li>
+  <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/febri-risnandi-b6baa41a0">https://www.linkedin.com/in/febri-risnandi-b6baa41a0</a></li>
+</ul>
+
 
 ---
 
