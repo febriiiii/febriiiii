@@ -3,12 +3,12 @@
 ![Header](github-header-image.png)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=febriiiii&label=Profile%20views&color=0e75b6&style=flat" alt="febriiiii" />
+  <img src="https://komarev.com" alt="febriiiii" />
 </p>
 
-## 🧠 Tentang Saya
+## 🧠 About Me
 
-Arsitek Perangkat Lunak dan Pengembang Fullstack berpengalaman lebih dari 5 tahun dalam menghadirkan solusi enterprise lintas industri. Terampil dalam metodologi Agile, arsitektur sistem, dan pengembangan perangkat lunak modern. Memiliki komitmen kuat terhadap kualitas (ISO 9001) dan kesiapan menghadapi Industri 4.0 melalui teknologi seperti IoT, AI, dan otomatisasi cerdas.
+Software Architect and Fullstack Developer with over 5 years of experience in delivering enterprise-grade solutions across various industries. Proficient in Agile methodologies, system architecture, and modern software development. Deeply committed to quality standards (ISO 9001) and Industry 4.0 readiness through expertise in IoT, AI, and intelligent automation.
 
 ---
 
@@ -16,28 +16,32 @@ Arsitek Perangkat Lunak dan Pengembang Fullstack berpengalaman lebih dari 5 tahu
 
 <table>
   <tr>
-    <th>Kategori</th>
-    <th>Teknologi</th>
+    <th>Category</th>
+    <th>Technologies</th>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td>.NET Core > V8 & Framework V4, ASP.NET MVC, Blazor Server, Laravel, CodeIgniter, NET MAUI, Fluter, VB6, VB.NET</td>
+    <td>.NET Core > V8 & Framework V4, ASP.NET MVC, Blazor Server, Laravel, CodeIgniter, .NET MAUI, Flutter, VB6, VB.NET</td>
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
     <td>React.js, Vue.js, Blazor WASM, jQuery, Bootstrap, Tailwind CSS</td>
   </tr>
   <tr>
+    <td><strong>Reporting Engine</strong></td>
+    <td>DevExpress XtraReports, SQL Server Reporting Services (SSRS), Crystal Reports, JasperReports</td>
+  </tr>
+  <tr>
     <td><strong>Library & UI Framework</strong></td>
     <td>DevExpress, Chart.js, Leaflet.js, ShadCN/UI</td>
   </tr>
   <tr>
-    <td><strong>Realtime & Integrasi</strong></td>
+    <td><strong>Real-time & Integration</strong></td>
     <td>SignalR, WebSocket, Webhook, Kafka (Confluent)</td>
   </tr>
   <tr>
-    <td><strong>Third Party API</strong></td>
-    <td>Midtrans, Google Maps API, WhatsApp api, Telegram Bot</td>
+    <td><strong>Third-Party APIs</strong></td>
+    <td>Midtrans, Google Maps API, WhatsApp API, Telegram Bot</td>
   </tr>
   <tr>
     <td><strong>DevOps & Deployment</strong></td>
@@ -53,77 +57,76 @@ Arsitek Perangkat Lunak dan Pengembang Fullstack berpengalaman lebih dari 5 tahu
   </tr>
   <tr>
     <td><strong>Version Control</strong></td>
-    <td>Git, GitHub, GitLab, Git Action & CI/CD</td>
+    <td>Git, GitHub, GitLab, GitHub Actions & CI/CD</td>
   </tr>
   <tr>
     <td><strong>Architecture</strong></td>
-    <td>Monolitik, Microservices, REST API, Clean Architecture, MVC, MVVM</td>
+    <td>Monolithic, Microservices, REST API, Clean Architecture, MVC, MVVM</td>
   </tr>
 </table>
 
-
 ---
 
-## 🏢 Pengalaman Proyek
-### PT Graha Kreasi Solusindo
+## 🏢 Project Experience
+### Sun Life
 
 <table>
-  <tr><th>Nama</th><th>Teknologi</th><th>Deskripsi</th></tr>
+  <tr><th>Project Name</th><th>Technology</th><th>Description</th></tr>
   <tr>
     <td>MySunAdvisor</td>
     <td>.NET, SQL Server</td>
-    <td>Customer Relationship Management (CRM)</td>
+    <td>Customer Relationship Management (CRM) for financial advisors.</td>
   </tr>
   <tr>
     <td>MSA - Chat</td>
     <td>VB6, SQL Server</td>
-    <td>Sales Force Automation (SFA)</td>
+    <td>Sales Force Automation (SFA) integration.</td>
   </tr>
   <tr>
     <td>Report Server</td>
-    <td>SQL Server Reporting Services</td>
-    <td>Laporan</td>
+    <td>SSRS, Crystal Reports</td>
+    <td>Enterprise-grade reporting engine and data visualization for insurance policies.</td>
   </tr>
 </table>
 
 ### PT Graha Kreasi Solusindo
 
 <table>
-  <tr><th>Nama</th><th>Teknologi</th><th>Deskripsi</th></tr>
+  <tr><th>Project Name</th><th>Technology</th><th>Description</th></tr>
   <tr>
     <td>SisBank</td>
-    <td>VB6, SQL Server</td>
-    <td>Core Banking System</td>
+    <td>VB6, SQL Server, Crystal Reports</td>
+    <td>Core Banking System with comprehensive financial reporting.</td>
   </tr>
   <tr>
     <td>SisGadai</td>
-    <td>VB6, SQL Server</td>
-    <td>Aplikasi Pegadaian Swasta</td>
+    <td>VB6, SQL Server, Crystal Reports</td>
+    <td>Private Pawnshop Management System.</td>
   </tr>
   <tr>
     <td>SisGadai Mobile</td>
-    <td>.Net MAUI, .Net Core Api (Swager), SQL Server</td>
-    <td>Monitoring dan Aproval Jarak Jauh</td>
+    <td>.NET MAUI, .NET Core API, SQL Server</td>
+    <td>Remote monitoring and approval system.</td>
   </tr>
   <tr>
     <td>SisMobile</td>
-    <td>fluter, .Net Core Api (Swager), SQL Server</td>
-    <td>Monitoring dan Aproval Jarak Jauh</td>
+    <td>Flutter, .NET Core API, SQL Server</td>
+    <td>Mobile monitoring and executive approval suite.</td>
   </tr>
   <tr>
     <td>Vesinter (ERP Manufacturing)</td>
-    <td>Vue.js, DevExpress, SqL Server, Laravel (API)</td>
-    <td>ERP manufaktur: BOM, proyek, alokasi sumber daya</td>
+    <td>Vue.js, DevExpress XtraReports, SQL Server, Laravel</td>
+    <td>Manufacturing ERP: BOM, projects, and resource allocation with JasperReports integration.</td>
   </tr>
   <tr>
     <td>Moneychange</td>
-    <td>Laravel, SQLite, SQL Server</td>
-    <td>POS Valas: transaksi, kurs harian, laporan</td>
+    <td>Laravel, SQLite, SQL Server, JasperReports</td>
+    <td>Forex POS: transactions, daily rates, and fiscal reports.</td>
   </tr>
   <tr>
     <td>SisBilling</td>
     <td>.NET C# API, React.js, SignalR, Midtrans, Webhook</td>
-    <td>Sistem billing otomatis dengan pembayaran realtime</td>
+    <td>Automated billing system with real-time payment and dynamic invoice generation.</td>
   </tr>
 </table>
 
@@ -132,16 +135,16 @@ Arsitek Perangkat Lunak dan Pengembang Fullstack berpengalaman lebih dari 5 tahu
 ### PT Insoft Asia Teknologi
 
 <table>
-  <tr><th>Nama</th><th>Teknologi</th><th>Deskripsi</th></tr>
+  <tr><th>Project Name</th><th>Technology</th><th>Description</th></tr>
   <tr>
     <td>JWD POS</td>
-    <td>ASP.NET, Laravel, DevExpress, Webhook</td>
-    <td>POS retail multi-outlet dan dashboard</td>
+    <td>ASP.NET, Laravel, DevExpress XtraReports, Webhook</td>
+    <td>Multi-outlet retail POS with advanced dashboard reporting.</td>
   </tr>
   <tr>
     <td>JWD Trading</td>
     <td>ASP.NET, Laravel, DevExpress, MySQL</td>
-    <td>Distribusi & penjualan supplier</td>
+    <td>Supplier distribution and sales management system.</td>
   </tr>
 </table>
 
@@ -150,56 +153,56 @@ Arsitek Perangkat Lunak dan Pengembang Fullstack berpengalaman lebih dari 5 tahu
 ### Freelance Projects
 
 <table>
-  <tr><th>Nama</th><th>Teknologi</th><th>Deskripsi</th></tr>
+  <tr><th>Project Name</th><th>Technology</th><th>Description</th></tr>
   <tr>
     <td>Fehiris ERP</td>
-    <td>Blazor Server, Microsoft Arsitektur</td>
-    <td>Perancang ERP modular (Odoo-like)</td>
+    <td>Blazor Server, Microsoft Architecture, SSRS</td>
+    <td>Modular ERP designer (Odoo-like architecture) with integrated reporting.</td>
   </tr>
   <tr>
     <td>Travel Ende Admin</td>
     <td>Laravel, Leaflet, Midtrans, Webhook, MySQL</td>
-    <td>Admin web destinasi wisata lokal</td>
+    <td>Web administration for local tourism destinations.</td>
   </tr>
   <tr>
     <td>Darent Delivery Admin</td>
     <td>Laravel, Leaflet, WebSocket, Webhook, MySQL</td>
-    <td>Admin sistem logistik & kurir</td>
+    <td>Logistics and courier management system.</td>
   </tr>
   <tr>
     <td>BlazorReportServer</td>
-    <td>Blazor Server, SQL Lite, Oracle, Azure App Service</td>
-    <td>Generator laporan template dinamis</td>
+    <td>Blazor Server, DevExpress XtraReports, Azure</td>
+    <td>Dynamic report template generator for multi-database environments.</td>
   </tr>
   <tr>
     <td>ASPXsheet</td>
     <td>.NET Microservice</td>
-    <td>Pembuatan file sheet berbasis API</td>
+    <td>API-based spreadsheet and document generation service.</td>
   </tr>
   <tr>
     <td>Buana Nongsa Maritime</td>
     <td>React.js</td>
-    <td>Company profile PT Nongsa Jaya Buana</td>
+    <td>Corporate profile website for PT Nongsa Jaya Buana.</td>
   </tr>
 </table>
 
 ---
 
-## 📈 Statistik GitHub
+## 📈 GitHub Statistics
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=febriiiii&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app" alt="GitHub Stats" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=febriiiii&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com&" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📬 Kontak
+## 📬 Contact
 
 <table>
   <tr><td>📧 Email</td><td><a href="mailto:pointad21@gmail.com">pointad21@gmail.com</a></td></tr>
-  <tr><td>📱 WhatsApp</td><td><a href="https://wa.me/6281275650284">0812-7565-0284</a></td></tr>
-  <tr><td>🔗 GitHub</td><td><a href="https://github.com/febriiiii">github.com/febriiiii</a></td></tr>
+  <tr><td>📱 WhatsApp</td><td><a href="https://wa.me">+62 812-7565-0284</a></td></tr>
+  <tr><td>🔗 GitHub</td><td><a href="https://github.com">://github.com</a></td></tr>
 </table>
