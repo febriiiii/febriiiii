@@ -10,7 +10,7 @@
 
 Software Architect and Fullstack Developer with over 5 years of experience in delivering enterprise-grade solutions across various industries. Proficient in Agile methodologies, system architecture, and modern software development. Deeply committed to quality standards (ISO 9001) and Industry 4.0 readiness through expertise in IoT, AI, and intelligent automation.
 
-# EDUCATION
+#### EDUCATION
 Institut Teknologi Batam
 Bachelor’s Degree in Management Information Systems | GPA: 3.27 / 4.00
 2019 – 2024
