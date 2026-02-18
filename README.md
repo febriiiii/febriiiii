@@ -79,7 +79,7 @@ Software Architect and Fullstack Developer with over 5 years of experience in de
   </tr>
   <tr>
     <td>MSA - Chat</td>
-    <td>VB6, SQL Server</td>
+    <td>.NET</td>
     <td>Sales Force Automation (SFA) integration.</td>
   </tr>
   <tr>
