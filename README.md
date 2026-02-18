@@ -135,8 +135,6 @@ Bachelor’s Degree in Management Information Systems | GPA: 3.27 / 4.00
   </tr>
 </table>
 
----
-
 ### PT Insoft Asia Teknologi
 
 <table>
@@ -152,8 +150,6 @@ Bachelor’s Degree in Management Information Systems | GPA: 3.27 / 4.00
     <td>Supplier distribution and sales management system.</td>
   </tr>
 </table>
-
----
 
 ### Freelance Projects
 
