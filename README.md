@@ -65,6 +65,26 @@ Arsitek Perangkat Lunak dan Pengembang Fullstack berpengalaman lebih dari 5 tahu
 ---
 
 ## 🏢 Pengalaman Proyek
+### PT Graha Kreasi Solusindo
+
+<table>
+  <tr><th>Nama</th><th>Teknologi</th><th>Deskripsi</th></tr>
+  <tr>
+    <td>MySunAdvisor</td>
+    <td>.NET, SQL Server</td>
+    <td>Customer Relationship Management (CRM)</td>
+  </tr>
+  <tr>
+    <td>MSA - Chat</td>
+    <td>VB6, SQL Server</td>
+    <td>Sales Force Automation (SFA)</td>
+  </tr>
+  <tr>
+    <td>Report Server</td>
+    <td>SQL Server Reporting Services</td>
+    <td>Laporan</td>
+  </tr>
+</table>
 
 ### PT Graha Kreasi Solusindo
 
