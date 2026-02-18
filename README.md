@@ -205,5 +205,5 @@ Software Architect and Fullstack Developer with over 5 years of experience in de
   <tr><td>📧 Email</td><td><a href="mailto:pointad21@gmail.com">pointad21@gmail.com</a></td></tr>
   <tr><td>📱 WhatsApp</td><td><a href="https://wa.me/6281275650284">0812-7565-0284</a></td></tr>
   <tr><td>🔗 GitHub</td><td><a href="https://github.com/febriiiii">febri - github</a></td></tr>
-  <tr><td>🔗 GitHub</td><td><a href="https://www.linkedin.com/in/febri-risnandi-b6baa41a0">febri - linkedin</a></td></tr>
+  <tr><td>🔗 LinkedIn</td><td><a href="https://www.linkedin.com/in/febri-risnandi-b6baa41a0">febri - linkedin</a></td></tr>
 </table>
