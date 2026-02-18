@@ -10,10 +10,16 @@
 
 Software Architect and Fullstack Developer with over 5 years of experience in delivering enterprise-grade solutions across various industries. Proficient in Agile methodologies, system architecture, and modern software development. Deeply committed to quality standards (ISO 9001) and Industry 4.0 readiness through expertise in IoT, AI, and intelligent automation.
 
-#### EDUCATION
+####🎓 EDUCATION
 Institut Teknologi Batam
 Bachelor’s Degree in Management Information Systems | GPA: 3.27 / 4.00
 2019 – 2024
+
+####📬 Contact
+📧 Email: pointad21@gmail.com
+📱 WhatsApp: +62 812 7565 0284
+🔗 GitHub: https://github.com/febriiiii
+🔗 LinkedIn: https://www.linkedin.com/in/febri-risnandi-b6baa41a0
 
 ---
 
@@ -73,8 +79,8 @@ Bachelor’s Degree in Management Information Systems | GPA: 3.27 / 4.00
 ---
 
 ## 🏢 Project Experience
-### Sun Life
 
+### Sun Life
 <table>
   <tr><th>Project Name</th><th>Technology</th><th>Description</th></tr>
   <tr>
@@ -95,7 +101,6 @@ Bachelor’s Degree in Management Information Systems | GPA: 3.27 / 4.00
 </table>
 
 ### PT Graha Kreasi Solusindo
-
 <table>
   <tr><th>Project Name</th><th>Technology</th><th>Description</th></tr>
   <tr>
@@ -136,7 +141,6 @@ Bachelor’s Degree in Management Information Systems | GPA: 3.27 / 4.00
 </table>
 
 ### PT Insoft Asia Teknologi
-
 <table>
   <tr><th>Project Name</th><th>Technology</th><th>Description</th></tr>
   <tr>
@@ -152,7 +156,6 @@ Bachelor’s Degree in Management Information Systems | GPA: 3.27 / 4.00
 </table>
 
 ### Freelance Projects
-
 <table>
   <tr><th>Project Name</th><th>Technology</th><th>Description</th></tr>
   <tr>
@@ -198,13 +201,3 @@ Bachelor’s Degree in Management Information Systems | GPA: 3.27 / 4.00
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=febriiiii&" alt="GitHub Streak" />
 </p>
 
----
-
-## 📬 Contact
-
-<table>
-  <tr><td>📧 Email</td><td><a href="mailto:pointad21@gmail.com">pointad21@gmail.com</a></td></tr>
-  <tr><td>📱 WhatsApp</td><td><a href="https://wa.me/6281275650284">0812-7565-0284</a></td></tr>
-  <tr><td>🔗 GitHub</td><td><a href="https://github.com/febriiiii">febri - github</a></td></tr>
-  <tr><td>🔗 LinkedIn</td><td><a href="https://www.linkedin.com/in/febri-risnandi-b6baa41a0">febri - linkedin</a></td></tr>
-</table>
